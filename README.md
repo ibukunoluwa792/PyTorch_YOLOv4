@@ -6,7 +6,7 @@ This is PyTorch implementation of [YOLOv4](https://github.com/AlexeyAB/darknet) 
 
 * [[ultralytics/yolov5 based PyTorch implementation of YOLOv4]](https://github.com/WongKinYiu/PyTorch_YOLOv4/tree/u5).
 
-### development log
+### development log.
 
 <details><summary> <b>Expand</b> </summary>
 
