@@ -1,4 +1,4 @@
-# YOLOv4
+# YOLOv
 
 This is PyTorch implementation of [YOLOv4](https://github.com/AlexeyAB/darknet) which is based on [ultralytics/yolov3](https://github.com/ultralytics/yolov3).
 
